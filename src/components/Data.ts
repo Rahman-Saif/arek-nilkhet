@@ -1,0 +1,75 @@
+const Data = {
+  productItems: [
+    {
+      id: 1,
+      discount: 50,
+      cover: './images/SlideCard/slide-1.png',
+      name: 'BCS Book',
+      price: 100,
+    },
+    {
+      id: 2,
+      discount: 40,
+      cover: './images/SlideCard/slide-1.png',
+      name: 'BCS Book',
+      price: 20,
+    },
+    {
+      id: 3,
+      discount: 40,
+      cover: './images/SlideCard/slide-1.png',
+      name: 'BCS Book',
+      price: 200,
+    },
+    {
+      id: 4,
+      discount: 40,
+      cover: './images/SlideCard/slide-1.png',
+      name: 'BCS Book',
+      price: 50,
+    },
+    {
+      id: 5,
+      discount: 50,
+      cover: './images/SlideCard/slide-1.png',
+      name: 'BCS Book',
+      price: 100,
+    },
+    {
+      id: 6,
+      discount: 50,
+      cover: './images/SlideCard/slide-1.png',
+      name: 'BCS Book',
+      price: 100,
+    },
+    {
+      id: 7,
+      discount: 40,
+      cover: './images/SlideCard/slide-1.png',
+      name: 'BCS Book',
+      price: 200,
+    },
+    {
+      id: 8,
+      discount: 40,
+      cover: './images/SlideCard/slide-1.png',
+      name: 'BCS Book',
+      price: 50,
+    },
+    {
+      id: 9,
+      discount: 50,
+      cover: './images/SlideCard/slide-1.png',
+      name: 'BCS Book',
+      price: 100,
+    },
+    {
+      id: 10,
+      discount: 50,
+      cover: './images/SlideCard/slide-1.png',
+      name: 'BCS Book',
+      price: 100,
+    },
+  ],
+};
+export default Data;

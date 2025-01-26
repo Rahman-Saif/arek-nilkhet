@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Science",
+    "books": [
+      {
+        "id": 101,
+        "title": "A Brief History of Time",
+        "author": "Stephen Hawking",
+        "subject": "Physics"
+      },
+      {
+        "id": 102,
+        "title": "The Selfish Gene",
+        "author": "Richard Dawkins",
+        "subject": "Biology"
+      },
+      {
+        "id": 103,
+        "title": "The Elegant Universe",
+        "author": "Brian Greene",
+        "subject": "Physics"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Literature",
+    "books": [
+      {
+        "id": 201,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "subject": "Romance"
+      },
+      {
+        "id": 202,
+        "title": "1984",
+        "author": "George Orwell",
+        "subject": "Dystopian"
+      },
+      {
+        "id": 203,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "subject": "Classic"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Technology",
+    "books": [
+      {
+        "id": 301,
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "subject": "Software Development"
+      },
+      {
+        "id": 302,
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt, David Thomas",
+        "subject": "Software Engineering"
+      },
+      {
+        "id": 303,
+        "title": "Artificial Intelligence: A Modern Approach",
+        "author": "Stuart Russell, Peter Norvig",
+        "subject": "AI"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "History",
+    "books": [
+      {
+        "id": 401,
+        "title": "Guns, Germs, and Steel",
+        "author": "Jared Diamond",
+        "subject": "Anthropology"
+      },
+      {
+        "id": 402,
+        "title": "The History of the Ancient World",
+        "author": "Susan Wise Bauer",
+        "subject": "Ancient History"
+      },
+      {
+        "id": 403,
+        "title": "The Silk Roads: A New History of the World",
+        "author": "Peter Frankopan",
+        "subject": "World History"
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Fiction",
+      "books": [
+        {
+          "id": 101,
+          "name": "The Great Gatsby",
+          "author": "F. Scott Fitzgerald",
+          "image": "https://example.com/images/gatsby.jpg"
+        },
+        {
+          "id": 102,
+          "name": "1984",
+          "author": "George Orwell",
+          "image": "https://example.com/images/1984.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Non-Fiction",
+      "books": [
+        {
+          "id": 201,
+          "name": "Sapiens: A Brief History of Humankind",
+          "author": "Yuval Noah Harari",
+          "image": "https://example.com/images/sapiens.jpg"
+        },
+        {
+          "id": 202,
+          "name": "Educated",
+          "author": "Tara Westover",
+          "image": "https://example.com/images/educated.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Science Fiction",
+      "books": [
+        {
+          "id": 301,
+          "name": "Dune",
+          "author": "Frank Herbert",
+          "image": "https://example.com/images/dune.jpg"
+        },
+        {
+          "id": 302,
+          "name": "Neuromancer",
+          "author": "William Gibson",
+          "image": "https://example.com/images/neuromancer.jpg"
+        }
+      ]
+    }
+  ]
+}

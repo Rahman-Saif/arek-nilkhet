@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "image": "/images/1.jpeg",
+    "alt_text": "Photo of John Doe"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "image": "https://example.com/images/jane-smith.jpg",
+    "alt_text": "Photo of Jane Smith"
+  },
+  {
+    "id": 3,
+    "name": "Emily Johnson",
+    "image": "https://example.com/images/emily-johnson.jpg",
+    "alt_text": "Photo of Emily Johnson"
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "image": "https://example.com/images/michael-brown.jpg",
+    "alt_text": "Photo of Michael Brown"
+  },
+  {
+    "id": 5,
+    "name": "Sarah Williams",
+    "image": "https://example.com/images/sarah-williams.jpg",
+    "alt_text": "Photo of Sarah Williams"
+  },
+  {
+    "id": 6,
+    "name": "David Miller",
+    "image": "https://example.com/images/david-miller.jpg",
+    "alt_text": "Photo of David Miller"
+  },
+  {
+    "id": 7,
+    "name": "Sophia Davis",
+    "image": null,
+    "alt_text": ""
+  },
+  {
+    "id": 8,
+    "name": "James Wilson",
+    "image": "https://example.com/images/james-wilson.jpg",
+    "alt_text": "Photo of James Wilson"
+  }
+]

@@ -1,0 +1,158 @@
+.PopularCategory{
+  background: #f6f9fc;
+  padding: 40px 0;
+}
+.PopularCategory img {
+  width: 50%;
+  height: 75%;
+  border-radius: 5px;
+}
+.PopularCategory .nametop {
+  width: 100%;
+  font-weight: bold;
+  color: black;
+}
+.PopularCategory .nametop span {
+  background: #0f3460;
+  color: #fff;
+  font-size: 12px;
+  padding: 5px 10px;
+  border-radius: 50px;
+  margin: 5px;
+  top: 10px;
+}
+span {
+  font-size: small;
+
+  text-align: center;
+  color: #0f3460;
+}
+.custom-h4 {
+  color: #0f3460;
+}
+.custom-view-icon {
+  color: #0f3460;
+  font-size: small;
+  margin-left: 7px;
+}
+.card-title {
+  font-size: medium;
+}
+
+.viewall-btn{
+  color:  #0f3460;
+}
+.card-height{
+  height: 150px;
+}
+.custom-popular-card .card-body img{
+  height: 100px;
+  width: 100%;
+}
+
+@media (max-width: 400px) {
+  
+  .card-title {
+    font-size: medium;
+  }
+  .swiper-slide .custom-popular-card{
+    height: 100px;
+  }
+
+  .swiper {
+    width: 50%;
+    height: 50%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .card-title {
+    font-size: medium;
+  }
+}
+
+@media (max-width: 640px) {
+  .card-title {
+    font-size: medium;
+  }
+  .swiper-slide .custom-popular-card{
+    height: 100px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .swiper-slide .custom-popular-card{
+    height: 200px;
+  }
+  .custom-popular-card .card-body{
+    height: 140px;
+  }
+  .custom-popular-card .card-body img{
+    height: 100px;
+    width: 100%;
+  }
+  .custom-popular-card .card-footer{
+    height: 60px;
+  }
+}
+
+
+#app { height: 100% }
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+
+
+
+

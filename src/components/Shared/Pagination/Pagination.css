@@ -1,0 +1,52 @@
+.paginate{
+    display: flex;
+    padding: 0;
+}
+
+.page .activePage{
+    color:white;
+    background-color: #ebae05;
+
+}
+
+.disabled-button{
+    background-color:darkgray;
+}
+
+.page .disabled-button{
+    background-color:darkgray;
+    
+}
+
+.disabled-button svg{
+    color:#fff;
+    background-color:darkgray;
+
+}
+
+.page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+}
+
+.page li a{
+    padding: 5px 10px;
+    color:white;
+}
+
+.page li{
+    padding: 4px 0;
+    color:#fff;
+    background-color: #0f3460; 
+    margin: 0 3px;
+    border-radius: 3px;
+    font-weight:bold;
+}
+
+.page li:active{
+    color:#0f3460;
+    background-color: #ebae05;
+
+}

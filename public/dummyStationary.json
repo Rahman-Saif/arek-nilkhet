@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "/images/1.jpeg",
+    "alt_text": "Product 1 Image",
+    "english_title": "Product 1",
+    "regular_price": 500,
+    "discount_price": 450,
+    "units_stock": 5
+  },
+  {
+    "id": 2,
+    "image": "/images/1.jpeg",
+    "alt_text": "Product 2 Image",
+    "english_title": "Product 2",
+    "regular_price": 300,
+    "discount_price": 0,
+    "units_stock": 10
+  },
+  {
+    "id": 3,
+    "image": "/images/1.jpeg",
+    "alt_text": "Product 3 Image",
+    "english_title": "Product 3",
+    "regular_price": 200,
+    "discount_price": 150,
+    "units_stock": 0
+  },
+  {
+    "id": 4,
+    "image": "/images/1.jpeg",
+    "alt_text": "Product 4 Image",
+    "english_title": "Product 4",
+    "regular_price": 1000,
+    "discount_price": null,
+    "units_stock": 12
+  },
+  {
+    "id": 5,
+    "image": "/images/1.jpeg",
+    "alt_text": "Product 5 Image",
+    "english_title": "Product 5",
+    "regular_price": 800,
+    "discount_price": 750,
+    "units_stock": 3
+  }
+]

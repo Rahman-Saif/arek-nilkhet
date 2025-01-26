@@ -1,0 +1,15 @@
+.pagination{
+    margin: 30px;
+}
+
+.pagination button{
+    padding: 0 10px;
+    margin-right: 20px;
+    background-color:gainsboro;
+    color:#0f3460;
+}
+
+.pagination .selected{
+    background-color: #0f3460;
+    color: white;
+}

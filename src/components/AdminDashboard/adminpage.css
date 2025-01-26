@@ -1,0 +1,86 @@
+.update-form-container{
+    width: 60vw;
+    padding: 5%;
+    margin: auto;
+}
+.adminpage{
+    display: flex;
+}
+.adminpage-container{
+    flex: 6;
+}
+.update-title{
+    text-align: center;
+}
+.update-title-hr{
+    width: 25%;
+    margin:auto;
+    margin-bottom: 2%;
+}
+.heading{
+    color:#0f3460;
+}
+
+tbody.custom-tbody {
+    width: 100%;
+    display: block;
+    overflow: auto;
+    height: 700px;
+}
+tbody.custom-tbody td{
+    width: 5%;
+    hyphens: auto;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+thead.custom-tbody th{
+    width: 5%;    
+}
+thead.custom-tbody tr{
+    display: block;
+    position: relative;
+    width: 100%;   
+}
+tbody.custom-search {
+    width: 100%;
+    display: block;
+    overflow: auto;
+    /* height: 700px; */
+}
+tbody.custom-search td{
+    width: 5%;
+    hyphens: auto;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+thead.custom-search th{
+    width: 5%;    
+}
+thead.custom-search tr{
+    display: block;
+    position: relative;
+    width: 100%;   
+}
+
+@media (max-width: 420px) {
+    .update-form-container{
+        width: 75vw;
+        padding: 5%;
+        margin: 15px;
+    }
+
+    .adminpage{
+        
+        min-height: 100vh;
+        min-width: 100vw;
+    }
+    .update-title{
+        text-align: start;
+        padding-left: 22%;
+    }
+    .update-title-hr{
+        width: 50%;
+        margin-left: 8%;
+        
+    }
+}

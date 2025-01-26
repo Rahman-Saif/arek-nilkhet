@@ -1,0 +1,38 @@
+
+img.publishers {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  padding-top: 5%;
+}
+.card-height{
+  height: 250px;
+}
+
+
+@media (max-width: 400px) {
+  .card-title {
+    font-size: small;
+  }
+  .card-height{
+    height: 200px;
+    
+  }
+}
+
+@media (max-width: 480px) {
+  .card-title {
+    font-size: small;
+  }
+  .card-height{
+    height: 200px;
+    width: 300px;
+    margin: auto;
+  }
+}
+
+@media (max-width: 1024px) {
+  .card-height{
+    height: 300px;
+  }
+}

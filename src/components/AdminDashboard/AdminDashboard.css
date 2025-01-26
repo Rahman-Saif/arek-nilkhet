@@ -1,0 +1,20 @@
+tbody.custom-tbody {
+    width: 100%;
+    display: block;
+    overflow: auto;
+    height: 700px;
+}
+tbody.custom-tbody td{
+    width: 5%;
+    hyphens: auto;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+thead.custom-tbody th{
+    width: 5%;    
+}
+thead.custom-tbody tr{
+    display: block;
+    position: relative;
+    width: 100%;   
+}
