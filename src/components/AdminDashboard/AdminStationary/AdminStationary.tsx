@@ -182,7 +182,7 @@ export default function AdminStationary({  stationaryCategory}) {
     }
     else{
       // fetch(`${url}/all-product/stationary/?search=${data.title}`)
-        fetch(`${url}/product-search-filter/?q=${data.title}`)
+      fetch(`${url}/product-search-filter/?type=stationary&q=${data.title}`)
         .then(res => res.json())
         .then(result => {
           if(result.length===0){

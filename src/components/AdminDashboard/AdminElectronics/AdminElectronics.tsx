@@ -194,7 +194,7 @@ export default function AdminElectronics({ electronicCategory}) {
     }
     else{
       // fetch(`${url}/all-product/electronics/?search=${data.title}`)
-          fetch(`${url}/product-search-filter/?q=${data.title}`)
+        fetch(`${url}/product-search-filter/?type=electronics&q=${data.title}`)
         .then(res => res.json())
         .then(result => {
           if(result.length===0){

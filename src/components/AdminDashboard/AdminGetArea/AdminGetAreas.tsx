@@ -143,7 +143,7 @@ formData.forEach((value, key) => {
   });
 
   const bodyData = {
-      order_id: 18, // Replace with dynamic value if needed
+      order_id: order_id, // Replace with dynamic value if needed
       parcel_weight: 2.5, // Replace with dynamic value if needed
       district_name: "Test Area", // Replace with dynamic value if needed
       delivery_area_id: 1 // Replace with dynamic value if needed
